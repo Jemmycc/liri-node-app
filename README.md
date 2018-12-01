@@ -39,12 +39,12 @@ LIRI is a Language Interpretation and Recognition Interface. It’s a command li
 *	Moment API (via Moment module)
 
 ## Colophon
-Credit: Miya studio team
-Copyright: All Rights Reserved and Confidential
-Contribution: When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change.
-Reference: 
-    https://www.npmjs.com/package/node-spotify-api
-    https://www.npmjs.com/package/axios
-    https://www.npmjs.com/package/bandsintown
-    https://www.npmjs.com/package/dotenv
-    https://www.npmjs.com/package/moment
+- Credit: Miya studio team
+- Copyright: All Rights Reserved and Confidential
+- Contribution: When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change.
+- Reference: 
+    - https://www.npmjs.com/package/node-spotify-api
+    - https://www.npmjs.com/package/axios
+    - https://www.npmjs.com/package/bandsintown
+    - https://www.npmjs.com/package/dotenv
+    - https://www.npmjs.com/package/moment
