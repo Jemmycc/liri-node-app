@@ -26,7 +26,7 @@ LIRI is a Language Interpretation and Recognition Interface. It’s a command li
     *	node liri.js do-what-it-says
 
 ## Demo 
-* click for [LIRI BOT Demon] (https://www.youtube.com/watch?v=JwYxMcPPu1Q&feature=youtu.be)
+* click for [LIRI BOT Demon](https://www.youtube.com/watch?v=JwYxMcPPu1Q&feature=youtu.be)
 
 ## Development Details
 *	Authentication keys for Spotify and axios are stored in "keys.js", and we are exporting its contents to the main "liri.js" file
